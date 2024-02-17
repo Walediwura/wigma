@@ -1,2 +1,2 @@
 # wigma
-A Realtime UI Collaboration Skill
+A Realtime UI Collaboration Tool
